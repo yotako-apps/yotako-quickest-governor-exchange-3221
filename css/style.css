@@ -1,0 +1,708 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 396px;
+    height: 832px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.0625em;
+    margin-top: 50px;
+    height: 21px
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 23px;
+    width: 310px;
+    height: 84px
+  }
+  .style7 {
+    margin-top: 14px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagerscontainer1container11row1 {
+    display: flex;
+    margin-left: 56px;
+    margin-top: 6px;
+    width: 244px;
+    height: 45px;
+    align-items: center
+  }
+  .style13 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: .6875em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style15 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 9px;
+    width: 71px;
+    height: 28px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: .5625em;
+    height: 12px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 11px;
+    width: 310px;
+    height: 84px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container14row0 {
+    display: flex;
+    margin-left: 56px;
+    width: 244px;
+    height: 45px;
+    align-items: center
+  }
+  .style18 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: .6875em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style20 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 9px;
+    width: 71px;
+    height: 28px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style21 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: .5625em;
+    height: 12px
+  }
+  .style22 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 11px;
+    width: 310px;
+    height: 84px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container17row0 {
+    display: flex;
+    margin-left: 56px;
+    width: 244px;
+    height: 45px;
+    align-items: center
+  }
+  .style23 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: .6875em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style25 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 9px;
+    width: 71px;
+    height: 28px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style26 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: .5625em;
+    height: 12px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 811px;
+    height: 1704px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.176em;
+    margin-top: 102px;
+    height: 43px
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 47px;
+    width: 635px;
+    height: 172px
+  }
+  .style7 {
+    margin-top: 29px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagerscontainer1container11row1 {
+    display: flex;
+    margin-left: 115px;
+    margin-top: 12px;
+    width: 500px;
+    height: 92px;
+    align-items: center
+  }
+  .style13 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 1.408em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style15 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 18px;
+    width: 145px;
+    height: 57px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.1520000000000001em;
+    height: 25px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 23px;
+    width: 635px;
+    height: 172px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container14row0 {
+    display: flex;
+    margin-left: 115px;
+    width: 500px;
+    height: 92px;
+    align-items: center
+  }
+  .style18 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 1.408em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style20 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 18px;
+    width: 145px;
+    height: 57px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style21 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.1520000000000001em;
+    height: 25px
+  }
+  .style22 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 23px;
+    width: 635px;
+    height: 172px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container17row0 {
+    display: flex;
+    margin-left: 115px;
+    width: 500px;
+    height: 92px;
+    align-items: center
+  }
+  .style23 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 1.408em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style25 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 18px;
+    width: 145px;
+    height: 57px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style26 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.1520000000000001em;
+    height: 25px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 972px;
+    height: 2041px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 2.6066666666666665em;
+    margin-top: 123px;
+    height: 52px
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 56px;
+    width: 761px;
+    height: 206px
+  }
+  .style7 {
+    margin-top: 34px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagerscontainer1container11row1 {
+    display: flex;
+    margin-left: 137px;
+    margin-top: 15px;
+    width: 599px;
+    height: 110px;
+    align-items: center
+  }
+  .style13 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 1.6866666666666665em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style15 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 22px;
+    width: 174px;
+    height: 69px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.38em;
+    height: 29px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 27px;
+    width: 761px;
+    height: 206px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container14row0 {
+    display: flex;
+    margin-left: 137px;
+    width: 599px;
+    height: 110px;
+    align-items: center
+  }
+  .style18 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 1.6866666666666665em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style20 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 22px;
+    width: 174px;
+    height: 69px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style21 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.38em;
+    height: 29px
+  }
+  .style22 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 27px;
+    width: 761px;
+    height: 206px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container17row0 {
+    display: flex;
+    margin-left: 137px;
+    width: 599px;
+    height: 110px;
+    align-items: center
+  }
+  .style23 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 1.6866666666666665em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style25 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 22px;
+    width: 174px;
+    height: 69px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style26 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.38em;
+    height: 29px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style1 {
+    background-color: #000;
+    opacity: .5031920075416565;
+    display: flex;
+    margin-left: 0;
+    margin-top: 0;
+    width: 1267px;
+    height: 2662px;
+    align-items: center;
+    flex-direction: column
+  }
+  .style8 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 3.4000000000000004em;
+    margin-top: 160px;
+    height: 67px
+  }
+  .style12,
+  .style7 {
+    background-color: #fff
+  }
+  .style12 {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 74px;
+    width: 992px;
+    height: 269px
+  }
+  .style7 {
+    margin-top: 45px;
+    width: 0;
+    height: 0
+  }
+  .vehiclelocationmanagerscontainer1container11row1 {
+    display: flex;
+    margin-left: 179px;
+    margin-top: 19px;
+    width: 781px;
+    height: 144px;
+    align-items: center
+  }
+  .style13 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 2.2em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style15 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 29px;
+    width: 227px;
+    height: 90px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style16 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.8em;
+    height: 38px
+  }
+  .style17 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 35px;
+    width: 992px;
+    height: 269px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container14row0 {
+    display: flex;
+    margin-left: 179px;
+    width: 781px;
+    height: 144px;
+    align-items: center
+  }
+  .style18 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 2.2em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style20 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 29px;
+    width: 227px;
+    height: 90px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style21 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.8em;
+    height: 38px
+  }
+  .style22 {
+    background-color: #fff;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    display: flex;
+    margin-top: 35px;
+    width: 992px;
+    height: 269px;
+    flex-direction: column;
+    justify-content: center
+  }
+  .vehiclelocationmanagerscontainer1container17row0 {
+    display: flex;
+    margin-left: 179px;
+    width: 781px;
+    height: 144px;
+    align-items: center
+  }
+  .style23 {
+    color: #484848;
+    font-family: sfuidisplay,serif;
+    font-size: 2.2em;
+    font-weight: 300;
+    margin-left: 0;
+    height: 100%
+  }
+  .style25 {
+    background-color: #36454f;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    display: flex;
+    margin-left: 29px;
+    width: 227px;
+    height: 90px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style26 {
+    color: #fff;
+    font-family: sfuitext,serif;
+    font-size: 1.8em;
+    height: 38px
+  }
+}
